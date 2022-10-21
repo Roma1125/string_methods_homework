@@ -6,5 +6,8 @@ def main(s):
     Returns:
         bool: answer
     """
+    answer=s.isupper
+
     
-    return
+    return answer
+print(main('asaadad'))
