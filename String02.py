@@ -6,5 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
+    answer=s.upper()
     
-    return
+    return answer
+print(main('sajsajsjak dsjasdj dasd'))
