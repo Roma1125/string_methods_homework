@@ -6,7 +6,7 @@ def main(s):
     Returns:
         bool: answer
     """
-    answer=s.isupper
+    answer=s.isupper()
 
     
     return answer
