@@ -6,5 +6,7 @@ def main(s):
     Returns:
         int: answer
     """
+    answer=s.count('a')
     
-    return
+    return answer
+print(main('sfdfsdf a dfs dfd'))
