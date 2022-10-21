@@ -7,7 +7,7 @@ def main(s):
         str: answer
     """
     
-    answer=s.index('d')
+    answer=s.index('x')
     
     return answer
 print(main('sfdfsdf a dfs dfd'))
